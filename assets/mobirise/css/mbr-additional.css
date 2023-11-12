@@ -1042,13 +1042,13 @@ a {
     left: -1rem;
   }
 }
-.cid-tSp95zzqZE {
+.cid-tVpwCQKGxy {
   background-color: #000000;
 }
-.cid-tSp95zzqZE .mbr-fallback-image.disabled {
+.cid-tVpwCQKGxy .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tSp95zzqZE .mbr-fallback-image {
+.cid-tVpwCQKGxy .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1057,18 +1057,183 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tSp95zzqZE .image-wrap img {
+.cid-tVpwCQKGxy .mbr-section-title,
+.cid-tVpwCQKGxy .mbr-text,
+.cid-tVpwCQKGxy .mbr-section-btn {
+  text-align: center;
+}
+.cid-tVpwCQKGxy .video-wrapper {
+  margin: auto;
+}
+.cid-tVpwCQKGxy .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tVpwCQKGxy .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tVpwCQKGxy .mbr-text,
+.cid-tVpwCQKGxy .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-tVpXSCJEQi {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-tVpXSCJEQi .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tVpXSCJEQi .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tVpXSCJEQi .image-wrap img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-tSp95zzqZE .image-wrap img {
+  .cid-tVpXSCJEQi .image-wrap img {
     display: block;
     margin: auto;
     width: 80%;
   }
 }
-.cid-tSp95zzqZE .mbr-section-title {
+.cid-tVpCEjl3lw {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #000000;
+}
+.cid-tVpCEjl3lw img,
+.cid-tVpCEjl3lw .item-img {
+  width: 100%;
+}
+.cid-tVpCEjl3lw .item:focus,
+.cid-tVpCEjl3lw span:focus {
+  outline: none;
+}
+.cid-tVpCEjl3lw .item-wrapper {
+  position: relative;
+}
+.cid-tVpCEjl3lw .slide-content {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-tVpCEjl3lw .slide-content .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tVpCEjl3lw .slide-content .item-content {
+    padding: 1rem;
+  }
+}
+.cid-tVpCEjl3lw .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-tVpCEjl3lw .mbr-section-title {
   color: #ffffff;
+}
+.cid-tVpCEjl3lw .mbr-text,
+.cid-tVpCEjl3lw .mbr-section-btn {
+  text-align: left;
+}
+.cid-tVpCEjl3lw .item-title {
+  text-align: left;
+}
+.cid-tVpCEjl3lw .item-subtitle {
+  text-align: left;
+}
+.cid-tVpCEjl3lw .embla__slide {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-width: 410px;
+  max-width: 410px;
+}
+@media (max-width: 768px) {
+  .cid-tVpCEjl3lw .embla__slide {
+    min-width: 70%;
+    max-width: initial;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
+}
+.cid-tVpCEjl3lw .embla__button--next,
+.cid-tVpCEjl3lw .embla__button--prev {
+  display: flex;
+}
+.cid-tVpCEjl3lw .embla__button {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .cid-tVpCEjl3lw .embla__button {
+    display: none;
+  }
+}
+.cid-tVpCEjl3lw .embla__button:disabled {
+  cursor: default;
+  display: none;
+}
+.cid-tVpCEjl3lw .embla__button:hover {
+  background: #000;
+  color: rgba(255, 255, 255, 0.5);
+}
+.cid-tVpCEjl3lw .embla__button.embla__button--prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-tVpCEjl3lw .embla__button.embla__button--next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-tVpCEjl3lw .embla__button {
+    top: auto;
+  }
+}
+.cid-tVpCEjl3lw .embla {
+  position: relative;
+  width: 100%;
+}
+.cid-tVpCEjl3lw .embla__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+.cid-tVpCEjl3lw .embla__viewport.is-draggable {
+  cursor: grab;
+}
+.cid-tVpCEjl3lw .embla__viewport.is-dragging {
+  cursor: grabbing;
+}
+.cid-tVpCEjl3lw .embla__container {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
 }
 .cid-tSp9mwUgHm {
   padding-top: 30px;
