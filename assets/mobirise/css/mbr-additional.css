@@ -1102,133 +1102,107 @@ a {
     width: 80%;
   }
 }
-.cid-tVpCEjl3lw {
+.cid-tVq9uJVhs6 {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #000000;
 }
-.cid-tVpCEjl3lw img,
-.cid-tVpCEjl3lw .item-img {
+.cid-tVq9uJVhs6 img,
+.cid-tVq9uJVhs6 .item-img {
   width: 100%;
 }
-.cid-tVpCEjl3lw .item:focus,
-.cid-tVpCEjl3lw span:focus {
+.cid-tVq9uJVhs6 .item:focus,
+.cid-tVq9uJVhs6 span:focus {
   outline: none;
 }
-.cid-tVpCEjl3lw .item-wrapper {
-  position: relative;
+.cid-tVq9uJVhs6 .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
 }
-.cid-tVpCEjl3lw .slide-content {
+.cid-tVq9uJVhs6 .item-wrapper {
   position: relative;
   border-radius: 4px;
   background: #fafafa;
   height: 100%;
   display: flex;
-  overflow: hidden;
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
-  .cid-tVpCEjl3lw .slide-content .item-content {
+  .cid-tVq9uJVhs6 .item-wrapper .item-content {
     padding: 2rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-tVpCEjl3lw .slide-content .item-content {
+  .cid-tVq9uJVhs6 .item-wrapper .item-content {
     padding: 1rem;
   }
 }
-.cid-tVpCEjl3lw .mbr-section-btn {
+.cid-tVq9uJVhs6 .mbr-section-btn {
   margin-top: auto !important;
 }
-.cid-tVpCEjl3lw .mbr-section-title {
+.cid-tVq9uJVhs6 .mbr-section-title {
   color: #ffffff;
 }
-.cid-tVpCEjl3lw .mbr-text,
-.cid-tVpCEjl3lw .mbr-section-btn {
+.cid-tVq9uJVhs6 .mbr-text,
+.cid-tVq9uJVhs6 .mbr-section-btn {
   text-align: left;
 }
-.cid-tVpCEjl3lw .item-title {
+.cid-tVq9uJVhs6 .item-title {
   text-align: left;
 }
-.cid-tVpCEjl3lw .item-subtitle {
+.cid-tVq9uJVhs6 .item-subtitle {
   text-align: left;
 }
-.cid-tVpCEjl3lw .embla__slide {
-  display: flex;
-  justify-content: center;
-  position: relative;
-  min-width: 410px;
-  max-width: 410px;
+.cid-tVq9vdZw4E {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #000000;
 }
-@media (max-width: 768px) {
-  .cid-tVpCEjl3lw .embla__slide {
-    min-width: 70%;
-    max-width: initial;
-    margin-left: 1rem !important;
-    margin-right: 1rem !important;
-  }
-}
-.cid-tVpCEjl3lw .embla__button--next,
-.cid-tVpCEjl3lw .embla__button--prev {
-  display: flex;
-}
-.cid-tVpCEjl3lw .embla__button {
-  top: 50%;
-  width: 60px;
-  height: 60px;
-  margin-top: -1.5rem;
-  font-size: 22px;
-  background-color: rgba(0, 0, 0, 0.5);
-  color: #fff;
-  border: 2px solid #fff;
-  border-radius: 50%;
-  transition: all 0.3s;
-  position: absolute;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.cid-tVpCEjl3lw .embla__button:disabled {
-  cursor: default;
-  display: none;
-}
-.cid-tVpCEjl3lw .embla__button:hover {
-  background: #000;
-  color: rgba(255, 255, 255, 0.5);
-}
-.cid-tVpCEjl3lw .embla__button.embla__button--prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-tVpCEjl3lw .embla__button.embla__button--next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-@media (max-width: 767px) {
-  .cid-tVpCEjl3lw .embla__button {
-    top: auto;
-  }
-}
-.cid-tVpCEjl3lw .embla {
-  position: relative;
+.cid-tVq9vdZw4E img,
+.cid-tVq9vdZw4E .item-img {
   width: 100%;
 }
-.cid-tVpCEjl3lw .embla__viewport {
-  overflow: hidden;
-  width: 100%;
+.cid-tVq9vdZw4E .item:focus,
+.cid-tVq9vdZw4E span:focus {
+  outline: none;
 }
-.cid-tVpCEjl3lw .embla__viewport.is-draggable {
-  cursor: grab;
+.cid-tVq9vdZw4E .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
 }
-.cid-tVpCEjl3lw .embla__viewport.is-dragging {
-  cursor: grabbing;
-}
-.cid-tVpCEjl3lw .embla__container {
+.cid-tVq9vdZw4E .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
   display: flex;
-  user-select: none;
-  -webkit-touch-callout: none;
-  -khtml-user-select: none;
-  -webkit-tap-highlight-color: transparent;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-tVq9vdZw4E .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tVq9vdZw4E .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-tVq9vdZw4E .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-tVq9vdZw4E .mbr-section-title {
+  color: #232323;
+}
+.cid-tVq9vdZw4E .mbr-text,
+.cid-tVq9vdZw4E .mbr-section-btn {
+  text-align: left;
+}
+.cid-tVq9vdZw4E .item-title {
+  text-align: left;
+}
+.cid-tVq9vdZw4E .item-subtitle {
+  text-align: left;
 }
 .cid-tSp9mwUgHm {
   padding-top: 30px;
